@@ -1,0 +1,27 @@
+p{
+    font-size: 40px;
+    line-height: 1.4;
+    color: red;
+}
+.col{
+    width: 44%;
+    height: 70px;
+    border: 1px solid;
+    margin: 20px;
+}
+.container{
+    width: 24%;
+    height: 30px;
+
+}
+.candle{
+    width: 4%;
+    height: 7px;
+}
+@media  (min-width:800px){
+    p{
+        font-size: 30px;
+        line-height: 1.2;
+        color: blue;
+    }
+}
